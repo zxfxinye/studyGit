@@ -5,3 +5,4 @@
     echo "make conclicts";
     echo "alisdf";
     echo "dsdsfff";
+    echo "my merge llfdf";
