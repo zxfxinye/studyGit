@@ -6,3 +6,4 @@
     echo "alisdf";
     echo "dsdsfff";
     echo "my merge llfdf";
+    echo "merge -- no-ff";
